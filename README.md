@@ -2,7 +2,6 @@
 
 **Desarrollador Full Stack** | San Miguel, RM, Chile  
 📧 [g.garrido.onate@gmail.com](mailto:g.garrido.onate@gmail.com)  
-📱 +56 9 5322 4008  
 
 ---
 
@@ -82,8 +81,7 @@ _Universidad Austral de Chile_ (2015)
 
 ## 🌍 Intereses Laborales
 
-💼 Buscando oportunidades **remotas o híbridas** como desarrollador Full Stack.  
-💰 Expectativa salarial: **CLP $2.900.000 – $3.200.000**
+💼 Buscando oportunidades **remotas o híbridas** como desarrollador Full Stack / Backend.  
 
 ---
 
